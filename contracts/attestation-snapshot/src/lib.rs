@@ -1259,3 +1259,5 @@ impl AttestationSnapshotContract {
 
 #[cfg(test)]
 mod snapshot_ttl_test;
+#[cfg(test)]
+mod epoch_businesses_test;
